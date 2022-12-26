@@ -12,9 +12,8 @@ This project was developed during module 6 of Rocketseat's Ignite bootcamp. The 
 
 * Next.js
 * Next Auth
-* Radix
 * React Query
-* React Hook Forms
+* React Hook Form
 * Zod
 * Prisma
 * TypeScript
